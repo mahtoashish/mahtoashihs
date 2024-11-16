@@ -7,4 +7,9 @@ When I’m not coding, you can find me capturing moments through my lens and sha
 I also love diving into new technologies and enjoying a good cup of coffee. 🌟  
 
 ---  
+## 🛠️ Skills
 
+- **Languages:** C++, JavaScript, Java
+- **Frameworks & Libraries:** Node.js, Express, React
+- **Tools:** Git, GitHub, VS Code
+- **Problem-Solving:** LeetCode enthusiast
