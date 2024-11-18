@@ -34,7 +34,12 @@ I also love diving into new technologies and enjoying a good cup of coffee. 🌟
 
 ### 📊 Stats
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahtoashish&show_icons=true&theme=gruvbox)
+![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahtoashish&show_icons=true&theme=gruvbox)/
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+## 🌐 Connect with Me
+
+- **LinkedIn:** [Linkedin](https://linkedin.com/in/ashish-mahto-2b7aa319b)
+- **Email:** AshishMahto(@ashishmahto491@gmail.com)
+
 
