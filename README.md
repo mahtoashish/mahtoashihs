@@ -40,6 +40,6 @@ I also love diving into new technologies and enjoying a good cup of coffee. 🌟
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [Linkedin](https://linkedin.com/in/ashish-mahto-2b7aa319b)
-- **Email:** AshishMahto(@ashishmahto491@gmail.com)
+- **Email:** AshishMahto(ashishmahto491@gmail.com)
 
 
